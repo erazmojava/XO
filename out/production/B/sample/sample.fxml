@@ -3,7 +3,7 @@
 <?import javafx.scene.layout.Pane?>
 <?import sample.GreenButton?>
 
-<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/8.0.112" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
    <children>
       <GreenButton fx:id="three" layoutX="300.0" layoutY="63.0" mnemonicParsing="false" />
       <GreenButton fx:id="two" layoutX="180.0" layoutY="63.0" mnemonicParsing="false" />
